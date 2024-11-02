@@ -1,12 +1,13 @@
-#Privacy Policy
+# Privacy Policy
 
 *Last Updated: November 02, 2024*
 
-##Introduction
+## ntroduction
 
 "Explain with AI" is a Chrome extension designed to provide explanations of selected text using OpenAI's API. This Privacy Policy outlines how we handle and protect your information.
 
-##Data Collection and Use
+## Data Collection and Use
+
 "Explain with AI" does not collect personal data and does not share any personal information with third parties.
 
 To function properly, the extension accesses and shares certain data as follows:
@@ -21,8 +22,10 @@ To function properly, the extension accesses and shares certain data as follows:
   - Your preferred response length in words.
   This data sharing is essential to deliver accurate and context-aware explanations.
 
-##Changes to This Policy
+## Changes to This Policy
+
 I may update this Privacy Policy as needed to comply with relevant regulations and to reflect changes in my practices. When significant changes are made, I will update the "Last Updated" date at the top of this page.
 
-##Contact Information
+## Contact Information
+
 If you have any questions, comments, or concerns about this Privacy Policy or your data, please contact us at alexander@fav83.com.
