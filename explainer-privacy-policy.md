@@ -2,7 +2,7 @@
 
 *Last Updated: November 02, 2024*
 
-## ntroduction
+## Introduction
 
 "Explain with AI" is a Chrome extension designed to provide explanations of selected text using OpenAI's API. This Privacy Policy outlines how we handle and protect your information.
 
